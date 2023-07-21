@@ -1,14 +1,5 @@
-## Hi there, I'm Kevin Miao. 👋
+# Kexuan Miao
 
-- 🔭 Competitive Programmer using C++ (Python)
-- 🌱 Second Year student in University of Alberta, Canada
-- 👯 Looking to collaborate on competitive programming
-- 📫 Reach me on email: miaocnca@gmail.com
-- 😄 Mainly using gvim / vim
-- ⚡ Second year in competitive programming (on CodeForces, Kattis)
+BSc CS @ UAlberta | [Personal Site](https://kiyuu-o.github.io/) | [LinkedIn](https://www.linkedin.com/in/kevin-miao-cs/)
 
----
-
-#### :sparkles: Current Project
-
-Preparing for ICPC (Rocky Mountain Regional Contest) as a team of 3.
+(+1)778-682-7252 | kmiao `at` ualberta.ca | Edmonton, AB, Canada
